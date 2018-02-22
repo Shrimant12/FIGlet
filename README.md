@@ -38,8 +38,7 @@ Open your Terminal.
 
 at the bottom of the file, add 
 
-`figlet SHR!`  or `figlet Anything you want`
-
+`figlet MR. ROBOT`
 Press Ctrl+x,
 Save and exit.
 
